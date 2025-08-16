@@ -1,0 +1,75 @@
+{
+    "greetings": {
+        "responses": [
+            "Hello, how can I help you today?",
+            "Hi, how are you?, What can i do for you?",
+            "What's up! How can I be of service for you?"
+        ],
+        "triggers": [
+            "hello",
+            "hi",
+            "whats up"
+        ]
+    },
+    "time": {
+        "responses": [
+            "We're open from 9AM to 5PM",
+            "Our available times are from 9AM to 5PM"
+        ],
+        "triggers": [
+            "time",
+            "available",
+            "hours"
+        ]
+    },
+    "specialties": {
+        "responses": [
+            "We offer specialties like our housemade pasta and soup",
+            "Our specialites include Alfredo pasta and gnochi soup"
+        ],
+        "triggers": [
+            "menu",
+            "food",
+            "specialties"
+        ]
+    },
+    "reservation": {
+        "responses": [
+            "Sure! let me look at the available times today."
+        ],
+        "triggers": [
+            "reservation"
+        ]
+    },
+    "farewell": {
+        "responses": [
+            "Goodbye! Have a nice day!",
+            "See you soon!",
+            "Bye take care"
+        ],
+        "triggers": [
+            "bye",
+            "goodbye"
+        ]
+    },
+    "thanks": {
+        "responses": [
+            "You're Welcome!",
+            "Glad I can be of service!"
+        ],
+        "triggers": [
+            "thanks",
+            "appreciate it"
+        ]
+    },
+    "self": {
+        "triggers": [
+            "how are you?",
+            "how are you doing?"
+        ],
+        "responses": [
+            "i'm just a bot, i don't really have emotions",
+            "i'm just an ai bot, but i guess i'm doing good!"
+        ]
+    }
+}
